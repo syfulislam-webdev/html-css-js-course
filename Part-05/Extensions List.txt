@@ -1,0 +1,10 @@
+1. Night Owl Theme
+2. VSCode Great Icons
+3. Live Preview / Live Server
+4. Atom Keymap
+5. Auto Rename Tag
+6. Bookmarks
+7. Contextual Duplicate
+8. Highlight Matching Tag
+9. Prettier Code Formatter
+10. TODO Highlight

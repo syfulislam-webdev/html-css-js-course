@@ -1,0 +1,48 @@
+{
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "editor.formatOnPaste": true,
+    "editor.wordWrap": "on",
+    "php.validate.run": "onType",
+    "workbench.colorCustomizations": {
+        "editor.wordHighlightBackground": "#bdba0846",
+        "editor.wordHighlightBorder": "#c9c607",
+        // "editor.wordHighlightStrongBackground": "#bdba0846",
+        "editor.wordHighlightStrongBorder": "#c9c607",
+        "editor.selectionHighlightBackground": "#bdba0846",
+        "editor.selectionHighlightBorder": "#c9c607",
+        // For Search Highlight Dark Theme
+        "editor.findMatchBackground": "#cc9c00a8", //Current SEARCH MATCH
+        "editor.findMatchHighlightBackground": "#ff7b003d", //Other SEARCH MATCHES
+        "editor.findMatchHighlightBorder": "#ffd900" //Other SEARCH MATCHES
+        /* For Dark Theme End */
+    },
+    "editor.cursorStyle": "line",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.fontFamily": "Consolas",
+    "search.showLineNumbers": true,
+    "emmet.triggerExpansionOnTab": true,
+    "git.ignoreMissingGitWarning": true,
+    "html.autoClosingTags": true,
+    "workbench.colorTheme": "Night Owl (No Italics)",
+    "terminal.integrated.windowsEnableConpty": false,
+    "workbench.sideBar.location": "left",
+    "todohighlight.isEnable": true,
+    "editor.formatOnSave": true,
+
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.iconTheme": "vscode-great-icons",
+    "editor.guides.bracketPairs": true,
+    "window.zoomLevel": 1,
+    "prettier.tabWidth": 4,
+    "files.autoSave": "afterDelay"
+    // On double click select whole variable for php
+    
+}
